@@ -22,7 +22,7 @@ export const data = [
     id: 3,
     name: "React JS Application",
     image: portfolio,
-    github: "",
-    live: "",
+    github: "https://github.com/somiha/portfolio",
+    live: "https://portfolio-teu2.vercel.app/",
   },
 ];
